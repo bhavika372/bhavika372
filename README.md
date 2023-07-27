@@ -1,33 +1,23 @@
-### Hi there 👋
-Welcome to my GitHub repository! This repository serves as a portfolio showcasing my projects, technical skills, certifications, achievements, and extracurricular activities.
+## About me
+Hi, I am Bhavika Darpe
 
-<!--
-**bhavika372/bhavika372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Technical Skills
-C/C++
-MySQL
-Python
-Java
-DBMS
-Data Structures
-Object-Oriented Programming (OOPS)
-Machine Learning
+Welcome to my GitHub repository! This repository showcases my technical skills, academic achievements, and projects related to computer science and engineering. Feel free to explore the code and projects listed here. 
 
 
-Certifications & Achievements
-AWS Academy Graduate - AWS Academy Cloud Architecting
-Cisco NETACAD: Programming Essentials in C++
-Cisco NETACAD: Programming Essentials in Python
-TechGig CodeGladiator Semifinalist 2023
+
+
+## Skills
+
+- **Languages:** C, C++, Python, Java
+- **Cloud:** AWS: S3, EC2, IAM, EBS, RDS
+- **Web Skills:** HTML5, CSS3, Bootstrap
+- **Course Work:** OOPS, Data Structures, DBMS, Machine Learning
+## Contact Me 
+
+📧 Email ID: bhavika.darpe@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/bhavika-darpe
+
+
+
+
