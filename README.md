@@ -12,6 +12,14 @@ Welcome to my GitHub repository! This repository showcases my technical skills, 
 - **Cloud:** AWS: S3, EC2, IAM, EBS, RDS
 - **Web Skills:** HTML5, CSS3, Bootstrap
 - **Course Work:** OOPS, Data Structures, DBMS, Machine Learning
+
+## Certifications and Achievements
+
+- CPA: Programming Essentials in C++. (CISCO NETACAD)
+- Python Essentials 1. (CISCO NETACAD)
+- TechGig CodeGladiator Semifinalist 2023.
+- AWS Academy Graduate
+
 ## Contact Me 
 
 📧 Email ID: bhavika.darpe@gmail.com
