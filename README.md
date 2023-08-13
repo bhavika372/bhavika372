@@ -15,10 +15,11 @@ Welcome to my GitHub repository! This repository showcases my technical skills, 
 
 ## Certifications and Achievements
 
+- AWS Certified Cloud Practitioner
 - CPA: Programming Essentials in C++. (CISCO NETACAD)
 - Python Essentials 1. (CISCO NETACAD)
 - TechGig CodeGladiator Semifinalist 2023.
-- AWS Academy Graduate
+
 
 ## Contact Me 
 
